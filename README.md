@@ -1,4 +1,4 @@
-This repository contains Java programs that I practiced as part of my placement preparation.
+This repository contains Java programs that I practiced as part of my placement preparation to strengthen my programming logic and problem-solving skills.
 
 Topics covered:
 - Java basics
